@@ -1,7 +1,19 @@
 angular.module('bTeamApp')
     .controller('LoginController', function($scope){
-        $scope.username = [];
+
     })
     .controller('HomeController', function($scope){
-        $scope.variable = [];
-    });
+
+        })
+    .controller('ContactController', function($scope){
+
+        })
+    .controller('OverviewController', function($scope){
+
+        })
+    .controller('RegisterController', function($scope){
+
+        })
+    .controller('ConfirmController', function($scope){
+
+        });
